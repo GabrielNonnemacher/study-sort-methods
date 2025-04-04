@@ -24,6 +24,13 @@ Este programa é um exercício realizado na disciplina de Estrutura de Dados I, 
 
 <br/>
 
+## 🔚 Conclusão
+
+![image](https://github.com/user-attachments/assets/75f57021-7d49-4f8e-8717-48f354bd8b49)
+
+<br/>
+
 ## 👀 Preview
 
 ![console](https://github.com/user-attachments/assets/ba561866-2886-4c4b-a95d-a82d8989d3d3)
+

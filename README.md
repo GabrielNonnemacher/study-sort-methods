@@ -24,6 +24,12 @@ This program is an exercise carried out in the Data Structure I discipline, whic
 
 <br/>
 
+## 🔚 Conclusion
+
+![image](https://github.com/user-attachments/assets/459e8dc8-d920-4ccc-ab04-2c2c0c8f3e3e)
+
+<br/>
+
 ## 👀 Preview
 
 ![console](https://github.com/user-attachments/assets/ba561866-2886-4c4b-a95d-a82d8989d3d3)
